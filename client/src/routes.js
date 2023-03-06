@@ -1,4 +1,3 @@
-import Admin from "./pages/Admin";
 import {
   ADMIN_ROUTE,
   BASKET_ROUTE,
@@ -10,6 +9,7 @@ import {
 import Basket from "./pages/Basket";
 import Shop from "./pages/Shop";
 import Auth from "./pages/Auth";
+import Admin from "./pages/Admin";
 import DevicePage from "./pages/DevicePage";
 
 export const authRoutes = [
